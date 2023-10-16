@@ -1,12 +1,20 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=infrony&label=Profile%20views&color=0e75b6&style=flat" alt="infrony" /> </p>
+
 - 👋 Hi, I’m @infrony
 - 👀 I’m interested in AI, Movies, Fitness, Startups
 - 🌱 I’m currently learning Design Patterns, Marketing and AI
 - 💞️ I’m looking to collaborate on deep learning
 - 📫 You can find me at @infrony or https://infrony.dev
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D3Q71T6)
+
+:star: GitHub Stats         |  📚  📚  📚
+:--------------------------:|:-------------------------: 
+[![GitHub Streak](https://streak-stats.demolab.com?user=infrony&theme=dark)](https://git.io/streak-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infrony&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+[![An image of @infrony's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/infrony)](https://holopin.io/@infrony)
+
 <!---
 infrony/infrony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-[![An image of @infrony's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/infrony)](https://holopin.io/@infrony)
