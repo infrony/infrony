@@ -8,6 +8,8 @@
 - 💞️ I’m looking to collaborate on deep learning
 - 📫 You can find me at @infrony or https://infrony.dev
 
+[![Linkedin: infrony](https://img.shields.io/badge/-infrony-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/infrony/)](https://www.linkedin.com/in/infrony/)
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D3Q71T6)
 
 :star: GitHub Stats         |  📚  📚  📚
