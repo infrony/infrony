@@ -1,5 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=infrony&label=Profile%20views&color=0e75b6&style=flat" alt="infrony" /> </p>
 
+[![wakatime last 7 days](https://wakatime.com/badge/user/5f11a35f-92d0-4640-9332-0588312a5e22.svg)](https://wakatime.com/@5f11a35f-92d0-4640-9332-0588312a5e22)
+
 - 👋 Hi, I’m @infrony
 - 👀 I’m interested in AI, Movies, Fitness, Startups
 - 🌱 I’m currently learning Design Patterns, Marketing and AI
