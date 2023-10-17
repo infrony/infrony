@@ -12,7 +12,7 @@
 
 :star: GitHub Stats         |  📚  📚  📚
 :--------------------------:|:-------------------------: 
-[![GitHub Streak](https://streak-stats.demolab.com?user=infrony&theme=dark)](https://git.io/streak-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infrony&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=infrony&theme=dark)](https://git.io/streak-stats) | [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=infrony&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![An image of @infrony's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/infrony)](https://holopin.io/@infrony)
 
